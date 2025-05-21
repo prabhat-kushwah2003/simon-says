@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    background-color: #ffffc5;
+}
+.btn{
+    border: 5px solid black;
+    border-radius: 10%;
+    height: 150px;
+    width: 150px;
+    margin: 10px ;
+
+}
+.boxs{
+    display: flex;
+    justify-content: center;
+    
+}
+.first{
+    background-color: #a0ebdf;
+}
+.second{
+    background-color: #779ceb;
+}
+.third{
+    background-color: #a88adfcf;
+}
+.fourth{
+    background-color: #ffa8B6;
+}
+.flace{
+    background-color: #F5F5F5;
+}
+.userFlace{
+    background-color: #88e788;
+}
+.over{
+    background-color: #d61111;
+}
